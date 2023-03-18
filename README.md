@@ -17,7 +17,7 @@
 
 
 ## 달성 성과
- +한국정보처리학회(22.11.04), 논문명 : 클라우드 네이티브 IAM(Identity and Access Management) 솔루션 게
+ +한국정보처리학회(22.11.04), 논문명 : 클라우드 네이티브 IAM(Identity and Access Management) 솔루션 게재   
 
 
   
