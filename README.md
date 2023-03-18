@@ -2,7 +2,7 @@
 # 클라우드 네이티브 IAM(Identity and Access Management) 솔루션
 
 한이음 프로젝트 
-팀원 : 박진형, 전우재, 박채림, 정지
+팀원 : 박진형, 전우재, 박채림, 정지현  
 
 
 ## Overview
